@@ -5,7 +5,7 @@
 Тесты для данной функции приведены в tests.py
 
 ## Задание 2
-OWASP Juice Shop был локально развернут и просканирован с помощью OWASP ZAP (подробнее: [https://illustrious-magpie-053.notion.site/INT-16_-cb68ba9e7c8e476ca46f5432cea27087](https://illustrious-magpie-053.notion.site/INT-16_-cb68ba9e7c8e476ca46f5432cea27087))
+OWASP Juice Shop был локально развернут и просканирован с помощью OWASP ZAP (подробнее: [https://illustrious-magpie-053.notion.site/INT-16_-cb68ba9e7c8e476ca46f5432cea27087](https://illustrious-magpie-053.notion.site/INT-16_-cb68ba9e7c8e476ca46f5432cea27087)).
 Файл json_parser.py содержит функцию, которая принимает путь до файла с отчётом OWASP ZAP в JSON-формате и сохраняет новый файл в JSON-формате (result_to_parser.json) следующего вида:
 ```
 {
